@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aephohkahd.misplacedconfidence.com/sitemap.xml
